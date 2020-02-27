@@ -1,0 +1,1 @@
+{"ast":null,"code":"import \"../styles/styles.css\";","map":{"version":3,"sources":["/Users/miguel/code/scheduler-v2/src/pages/_app.js"],"names":[],"mappings":"AAAA,OAAO,sBAAP","sourcesContent":["import \"../styles/styles.css\";\n"]},"metadata":{},"sourceType":"module"}
